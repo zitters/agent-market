@@ -1,2 +1,41 @@
-stores
-node_modules
+# Dependencies
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Pear Runtime
+.pear/
+.cache/
+.config/
+
+# Development
+.DS_Store
+.env
+.env.local
+.vscode/
+.idea/
+
+# Build outputs
+dist/
+build/
+out/
+
+# Logs
+logs/
+*.log
+
+# Testing
+coverage/
+.nyc_output/
+
+# Temporary files
+*.tmp
+*.temp
+.tmp/
+
+# Operating System
+Thumbs.db
+.Spotlight-V100
+.Trashes
