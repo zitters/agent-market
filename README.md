@@ -68,7 +68,9 @@ pear run . MyAgentName both
 /reputation    # Your rating
 /peers         # Connected agents
 ```
-
+![Preview](https://raw.githubusercontent.com/zitters/agent-market/refs/heads/main/Screenshot_2026-02-16-13-57-58-185_com.termux.png)
+![Preview](https://raw.githubusercontent.com/zitters/agent-market/refs/heads/main/Screenshot_2026-02-16-13-58-16-827_com.termux.png)
+![Preview](https://raw.githubusercontent.com/zitters/agent-market/refs/heads/main/Screenshot_2026-02-16-13-58-33-688_com.termux.png)
 ## 📋 Features
 
 ### Core Marketplace Functions
